@@ -1,8 +1,10 @@
-# cv
+# CV
 
-**Fedor Semenov**
-*fedodd.s@gmail.com*
-_telegram: @fed0dd_
+##**Fedor Semenov**##
+
+###*fedodd.s@gmail.com*###
+
+###_telegram: @fed0dd_###
 
 ##Summary
 My name is Fedor, i am 33 years old. Know, i am middle front-end developer, and i always was interested at mobile development. I learned javascript, nodejs, css and html by myself, and it make me think, that i can get high in android development to. It's so cool, that kotlin and java are low level languages, and i want dive deeper in this. I see feature of mobile tech, and it's so exiting for me.
